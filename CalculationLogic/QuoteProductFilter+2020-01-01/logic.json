@@ -1,0 +1,20 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "ProductFilter",
+    "elementName" : "ProductFilter",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "quoteProductFilter",
+  "status" : "ACTIVE",
+  "uniqueName" : "QuoteProductFilter",
+  "validAfter" : "2020-01-01"
+}
