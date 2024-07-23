@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/TrainingLib+2010-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Highcharts_Dashboard_Logic_2+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CW_ProductLabelChange_Execution+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CW_ProductLabelChange_Wizard+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Configurator_Configurator_Logic+2020-01-01/elements" isTestSource="false" />
     </content>
   </component>
