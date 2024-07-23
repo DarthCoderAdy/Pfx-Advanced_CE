@@ -25,6 +25,32 @@
     "hideWarnings" : false,
     "protectedExpression" : false,
     "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Delivery Type Section",
+    "elementName" : "DeliveryTypeSection",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "ExtraSurchargeSection",
+    "elementName" : "ExtraSurchargeSection",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
   } ],
   "status" : "ACTIVE",
   "uniqueName" : "Configurator_Configurator_Logic",

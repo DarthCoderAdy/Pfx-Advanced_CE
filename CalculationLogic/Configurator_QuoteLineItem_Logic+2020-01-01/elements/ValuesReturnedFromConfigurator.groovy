@@ -1,0 +1,1 @@
+input[Constants.CONFIGURATOR_INPUT_NAME]
