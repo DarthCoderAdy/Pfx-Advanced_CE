@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "CcyTo",
+  "key" : true,
+  "label" : "CcyTo",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : false,
+  "owningFC" : "Currencies",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.ccy",
+  "system" : false,
+  "time" : false,
+  "type" : "CURRENCY",
+  "visibility" : 1
+}

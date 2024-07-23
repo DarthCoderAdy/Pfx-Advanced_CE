@@ -1,0 +1,19 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Currencies",
+  "sourceName" : "DMF.ccy",
+  "targetName" : "DMDS.ccy",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

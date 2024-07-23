@@ -1,0 +1,16 @@
+{
+  "auxiliary" : true,
+  "deployed" : true,
+  "fieldNames" : [ "UomFrom", "UomTo", "UomConversionFactor", "isDeleted", "lastUpdateDate" ],
+  "fields" : [ "UomConversionFactor", "UomFrom", "UomTo", "isDeleted", "lastUpdateDate" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "UomFrom", "UomTo" ],
+  "label" : "Unit of Measures",
+  "loadableFields" : [ "UomFrom", "UomTo", "UomConversionFactor", "isDeleted", "lastUpdateDate" ],
+  "locked" : true,
+  "queryable" : true,
+  "type" : "DATASOURCE",
+  "uniqueName" : "uom",
+  "valid" : true,
+  "view" : false
+}

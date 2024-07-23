@@ -1,0 +1,16 @@
+{
+  "auxiliary" : false,
+  "deployed" : true,
+  "fieldNames" : [ "Cost", "Currency", "CustomerId", "Discount", "InvoiceDate", "ListPrice", "ProductId", "Quantity", "TransactionId", "isDeleted", "lastUpdateDate" ],
+  "fields" : [ "Cost", "Currency", "CustomerId", "Discount", "InvoiceDate", "ListPrice", "ProductId", "Quantity", "TransactionId", "isDeleted", "lastUpdateDate" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "TransactionId" ],
+  "label" : "Transaction",
+  "loadableFields" : [ "Cost", "Currency", "CustomerId", "Discount", "InvoiceDate", "ListPrice", "ProductId", "Quantity", "TransactionId", "isDeleted", "lastUpdateDate" ],
+  "locked" : false,
+  "queryable" : true,
+  "type" : "DATASOURCE",
+  "uniqueName" : "Transaction",
+  "valid" : true,
+  "view" : false
+}

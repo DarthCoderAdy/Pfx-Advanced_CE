@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Exchange Rate",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "ExchangeRate",
+  "validAfter" : "2010-01-01",
+  "valueType" : "MATRIX2"
+}

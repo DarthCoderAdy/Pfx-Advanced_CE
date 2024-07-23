@@ -1,0 +1,10 @@
+{
+  "fieldType" : 1,
+  "formatType" : "MONEY_EUR",
+  "label" : "FreightSurcharge",
+  "labelTranslations" : {
+    "" : "Freight Surcharge"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

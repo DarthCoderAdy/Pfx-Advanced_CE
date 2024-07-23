@@ -1,0 +1,19 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Chart",
+    "elementName" : "Chart",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "status" : "ACTIVE",
+  "uniqueName" : "Highcharts_Dashboard_Logic_2",
+  "validAfter" : "2020-01-01"
+}

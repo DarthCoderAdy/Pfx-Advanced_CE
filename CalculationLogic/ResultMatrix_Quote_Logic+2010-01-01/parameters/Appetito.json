@@ -1,0 +1,41 @@
+[ {
+  "label" : "Context",
+  "name" : "PFX_STUDIO_TYPECODE",
+  "type" : "OPTION",
+  "value" : "PRODUCT",
+  "valueOptions" : [ "PRODUCT", "PRODUCTEXTENSION", "PRICEGRIDITEM", "PRICELISTITEM", "MATRIXPRICEGRIDITEM", "MATRIXPRICELISTITEM", "CUSTOMER", "CUSTOMEREXTENSION", "PRICERECORD", "MANUALPRICELISTITEM", "NONE" ]
+}, {
+  "label" : "ProductSKU",
+  "name" : "ProductSKU",
+  "type" : "STRINGUSERENTRY",
+  "value" : [ "MB-0001" ]
+}, {
+  "label" : "targetDate",
+  "name" : "targetDate",
+  "type" : "DATEUSERENTRY"
+}, {
+  "label" : "Quantity",
+  "name" : "Quantity",
+  "parameterConfig" : {
+    "dataType" : "integer"
+  },
+  "required" : true,
+  "type" : "INTEGERUSERENTRY",
+  "value" : 10
+}, {
+  "label" : "Invoice Price",
+  "name" : "InvoicePrice",
+  "parameterConfig" : {
+    "dataType" : "float"
+  },
+  "required" : true,
+  "type" : "USERENTRY",
+  "value" : 10
+},
+  {
+    "name"  : "Customer",
+    "label" : "Customer Id",
+    "type"  : "STRINGUSERENTRY",
+    "value" : "CD-00001"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementName" : "InvoicePrice",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "formatType" : "MONEY_EUR",
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "overridden" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "inputDescriptors" : [ ],
+  "status" : "ACTIVE",
+  "uniqueName" : "QuoteProductFilter_Quote_Logic",
+  "validAfter" : "2021-01-01"
+}

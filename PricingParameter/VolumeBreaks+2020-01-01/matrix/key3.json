@@ -1,0 +1,11 @@
+{
+  "cssProperties" : "",
+  "fieldType" : 2,
+  "formatType" : "TEXT",
+  "label" : "VolumeBreak",
+  "labelTranslations" : {
+    "" : "Volume Break"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}

@@ -1,0 +1,9 @@
+{
+  "fieldType" : 2,
+  "label" : "RawMaterial",
+  "labelTranslations" : {
+    "" : "Raw Material"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

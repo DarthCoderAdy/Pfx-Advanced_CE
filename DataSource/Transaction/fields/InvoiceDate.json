@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "InvoiceDate",
+  "key" : false,
+  "label" : "Invoice Date",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : false,
+  "owningFC" : "Transaction",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.Transaction",
+  "system" : false,
+  "time" : true,
+  "type" : "DATE",
+  "visibility" : 1
+}

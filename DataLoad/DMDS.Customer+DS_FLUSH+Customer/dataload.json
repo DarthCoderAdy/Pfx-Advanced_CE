@@ -1,0 +1,19 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Customer",
+  "sourceName" : "DMF.Customer",
+  "targetName" : "DMDS.Customer",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

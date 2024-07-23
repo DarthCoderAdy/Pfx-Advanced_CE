@@ -1,0 +1,10 @@
+{
+  "fieldType" : 1,
+  "formatType" : "MONEY",
+  "label" : "Cost",
+  "labelTranslations" : {
+    "" : "Cost (Currency/UoM)"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

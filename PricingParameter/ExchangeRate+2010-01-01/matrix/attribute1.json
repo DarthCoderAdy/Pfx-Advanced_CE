@@ -1,0 +1,10 @@
+{
+  "fieldType" : 1,
+  "formatType" : "MONEY_EUR",
+  "label" : "InEuros",
+  "labelTranslations" : {
+    "" : "In Euros"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

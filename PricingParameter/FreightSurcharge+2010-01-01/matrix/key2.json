@@ -1,0 +1,9 @@
+{
+  "fieldType" : 2,
+  "label" : "DeliveryType",
+  "labelTranslations" : {
+    "" : "Delivery Type"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

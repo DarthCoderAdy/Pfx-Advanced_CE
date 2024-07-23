@@ -1,0 +1,27 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "dtoFilter" : {
+    "_constructor" : "AdvancedCriteria",
+    "criteria" : [ {
+      "fieldName" : "formulaResult",
+      "operator" : "equals",
+      "value" : "OK"
+    } ],
+    "operator" : "and"
+  },
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Unit of Measures",
+  "targetName" : "DMF.uom",
+  "type" : "TRUNCATE",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

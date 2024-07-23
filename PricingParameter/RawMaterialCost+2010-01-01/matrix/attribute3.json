@@ -1,0 +1,9 @@
+{
+  "fieldType" : 2,
+  "label" : "UoM",
+  "labelTranslations" : {
+    "" : "Unit of Measure (UoM)"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

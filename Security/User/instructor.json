@@ -1,0 +1,16 @@
+{
+  "activated" : true,
+  "businessRoles" : [ ],
+  "email" : "",
+  "firstLogin" : false,
+  "firstName" : "",
+  "groups" : [ ],
+  "lastName" : "",
+  "loginName" : "instructor",
+  "noSession" : false,
+  "platformManaged" : false,
+  "receiveAdminEmail" : false,
+  "requireTFA" : false,
+  "ssoOnly" : false,
+  "workflowEmailingActivated" : true
+}

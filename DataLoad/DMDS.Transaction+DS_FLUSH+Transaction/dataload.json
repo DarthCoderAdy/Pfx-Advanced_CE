@@ -1,0 +1,19 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Transaction",
+  "sourceName" : "DMF.Transaction",
+  "targetName" : "DMDS.Transaction",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

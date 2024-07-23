@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "CcyValidFrom",
+  "key" : true,
+  "label" : "CcyValidFrom",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : false,
+  "owningFC" : "Currencies",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.ccy",
+  "system" : false,
+  "time" : true,
+  "type" : "DATE",
+  "visibility" : 1
+}

@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "ProductId",
+  "key" : false,
+  "label" : "Product Id",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : false,
+  "owningFC" : "Transaction",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.Transaction",
+  "system" : false,
+  "time" : false,
+  "type" : "TEXT",
+  "visibility" : 1
+}

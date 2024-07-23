@@ -1,0 +1,21 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : false,
+  "expression" : "UomConversionFactor",
+  "key" : false,
+  "label" : "UomConversionFactor",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : true,
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "system" : false,
+  "time" : false,
+  "type" : "NUMBER",
+  "visibility" : 1
+}

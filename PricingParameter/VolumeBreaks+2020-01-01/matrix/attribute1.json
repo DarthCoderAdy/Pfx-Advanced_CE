@@ -1,0 +1,10 @@
+{
+  "cssProperties" : "",
+  "fieldType" : 3,
+  "label" : "Volume",
+  "labelTranslations" : {
+    "" : "Volume"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

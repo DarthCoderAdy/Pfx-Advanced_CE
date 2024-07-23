@@ -1,0 +1,16 @@
+{
+  "auxiliary" : true,
+  "deployed" : true,
+  "fieldNames" : [ "CcyValidFrom", "CcyFrom", "CcyTo", "CcyExchangeRate", "CcyValidTo", "isDeleted", "lastUpdateDate" ],
+  "fields" : [ "CcyExchangeRate", "CcyFrom", "CcyTo", "CcyValidFrom", "CcyValidTo", "isDeleted", "lastUpdateDate" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "CcyValidFrom", "CcyFrom", "CcyTo" ],
+  "label" : "Currencies",
+  "loadableFields" : [ "CcyValidFrom", "CcyFrom", "CcyTo", "CcyExchangeRate", "CcyValidTo", "isDeleted", "lastUpdateDate" ],
+  "locked" : true,
+  "queryable" : true,
+  "type" : "DATASOURCE",
+  "uniqueName" : "ccy",
+  "valid" : true,
+  "view" : false
+}

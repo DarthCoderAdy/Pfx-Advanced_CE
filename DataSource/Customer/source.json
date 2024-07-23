@@ -1,0 +1,19 @@
+{
+  "auxiliary" : false,
+  "deployed" : true,
+  "fieldNames" : [ "CustomerId", "CustomerName", "parentId", "isParent", "isDeleted", "lastUpdateDate", "BuyingGroup", "Country", "CountryCode", "CustomerClass", "CustomerCurrency", "CustomerGroup", "CustomerInfo", "CustomerType", "IncoTerms", "PaymentTerms", "Region", "SalesOrg", "SalesPerson", "Segmentation", "Service" ],
+  "fields" : [ "BuyingGroup", "Country", "CountryCode", "CustomerClass", "CustomerCurrency", "CustomerGroup", "CustomerId", "CustomerInfo", "CustomerName", "CustomerType", "IncoTerms", "PaymentTerms", "Region", "SalesOrg", "SalesPerson", "Segmentation", "Service", "isDeleted", "isParent", "lastUpdateDate", "parentId" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "CustomerId" ],
+  "label" : "Customer",
+  "loadableFields" : [ "CustomerId", "CustomerName", "parentId", "isParent", "isDeleted", "lastUpdateDate", "BuyingGroup", "Country", "CountryCode", "CustomerClass", "CustomerCurrency", "CustomerGroup", "CustomerInfo", "CustomerType", "IncoTerms", "PaymentTerms", "Region", "SalesOrg", "SalesPerson", "Segmentation", "Service" ],
+  "locked" : false,
+  "persistedObjectClass" : "net.pricefx.domain.Customer",
+  "queryable" : true,
+  "sourceLabel" : "Customer",
+  "sourceTypeCode" : "C",
+  "type" : "DATASOURCE",
+  "uniqueName" : "Customer",
+  "valid" : true,
+  "view" : false
+}

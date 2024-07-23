@@ -1,0 +1,16 @@
+{
+  "auxiliary" : true,
+  "deployed" : true,
+  "fieldNames" : [ "CalDate", "CalWeek", "CalMonth", "CalQuarter", "CalYear", "isDeleted", "lastUpdateDate" ],
+  "fields" : [ "CalDate", "CalMonth", "CalQuarter", "CalWeek", "CalYear", "isDeleted", "lastUpdateDate" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "CalDate" ],
+  "label" : "Calendar",
+  "loadableFields" : [ "CalDate", "CalWeek", "CalMonth", "CalQuarter", "CalYear", "isDeleted", "lastUpdateDate" ],
+  "locked" : true,
+  "queryable" : true,
+  "type" : "DATASOURCE",
+  "uniqueName" : "cal",
+  "valid" : true,
+  "view" : false
+}

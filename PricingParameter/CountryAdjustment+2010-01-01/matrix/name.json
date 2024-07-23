@@ -1,0 +1,9 @@
+{
+  "fieldType" : 2,
+  "label" : "CountryCode",
+  "labelTranslations" : {
+    "" : "Country Code"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

@@ -1,0 +1,21 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementName" : "Inputs",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "overridden" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "formulaNature" : "quoteHeader",
+  "inputDescriptors" : [ ],
+  "status" : "ACTIVE",
+  "uniqueName" : "QuoteProductFilter_QuoteHeader_Logic",
+  "validAfter" : "2021-01-01"
+}

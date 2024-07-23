@@ -1,0 +1,10 @@
+{
+  "fieldType" : 1,
+  "formatType" : "PERCENT",
+  "label" : "MarkupAdjustment",
+  "labelTranslations" : {
+    "" : "Markup Adjustment (%)"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

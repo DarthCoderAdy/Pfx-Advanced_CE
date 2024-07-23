@@ -1,0 +1,19 @@
+{
+  "auxiliary" : false,
+  "deployed" : true,
+  "fieldNames" : [ "ProductId", "Label", "ProductUnit", "Currency", "formulaName", "isDeleted", "lastUpdateDate", "BusinessUnit", "Competition", "ProductClass", "ProductGroup", "ProductLifeCycle", "Size" ],
+  "fields" : [ "BusinessUnit", "Competition", "Currency", "Label", "ProductClass", "ProductGroup", "ProductId", "ProductLifeCycle", "ProductUnit", "Size", "formulaName", "isDeleted", "lastUpdateDate" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "ProductId" ],
+  "label" : "Product",
+  "loadableFields" : [ "ProductId", "Label", "ProductUnit", "Currency", "formulaName", "isDeleted", "lastUpdateDate", "BusinessUnit", "Competition", "ProductClass", "ProductGroup", "ProductLifeCycle", "Size" ],
+  "locked" : false,
+  "persistedObjectClass" : "net.pricefx.domain.Product",
+  "queryable" : true,
+  "sourceLabel" : "Product",
+  "sourceTypeCode" : "P",
+  "type" : "DATASOURCE",
+  "uniqueName" : "Product",
+  "valid" : true,
+  "view" : false
+}

@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : true,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : false,
+  "expression" : "lastUpdateDate",
+  "key" : false,
+  "label" : "LastUpdateDate",
+  "labelTranslations" : { },
+  "messages" : { },
+  "numeric" : false,
+  "owningFC" : "[System]",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.ProductCompetitionData",
+  "system" : true,
+  "time" : true,
+  "type" : "DATETIME",
+  "visibility" : 0
+}

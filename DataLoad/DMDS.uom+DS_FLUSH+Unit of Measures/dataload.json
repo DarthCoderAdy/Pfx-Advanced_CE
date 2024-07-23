@@ -1,0 +1,19 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Unit of Measures",
+  "sourceName" : "DMF.uom",
+  "targetName" : "DMDS.uom",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

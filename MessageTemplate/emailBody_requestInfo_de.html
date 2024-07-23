@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>$email_title_emailBody_requestInfo$</title>
+    <style>
+        $header()$
+    </style>
+</head>
+
+$body()$
+                                    <table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+                                        <tbody>
+                                            <tr style="padding:0;text-align:left;vertical-align:top">
+                                                <th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:20px;padding-right:20px;text-align:left;width:580px">
+                                                    <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                        <tr style="padding:0;text-align:left;vertical-align:top">
+                                                            <th style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+															$email_emailBody_requestInfo_line1$</br>
+															$message$</br>
+															</br>
+															$email_emailBody_requestInfo_line2$</br>
+															</th>
+                                                            <th class="expander" style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0"></th>
+                                                        </tr>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+                                        <tbody>
+                                            <tr style="padding:0;text-align:left;vertical-align:top">
+                                                <th class="small-12 large-4 columns first" style="Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:20px;padding-right:10px;text-align:left;width:180px">
+                                                    <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                        <tr style="padding:0;text-align:left;vertical-align:top">
+                                                            <th style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+                                                                <table class="button radius large expanded" style="Margin:0 0 16px 0;border-collapse:collapse;border-radius:3px;border-spacing:0;margin:0 0 16px 0;margin-bottom:8px;padding:0;text-align:left;vertical-align:top;width:100%!important">
+                                                                    <tr style="padding:0;text-align:left;vertical-align:top">
+                                                                        <td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+                                                                            <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                                                <tr style="padding:0;text-align:left;vertical-align:top">
+                                                                                    <td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#0070D2;border:none;border-collapse:collapse!important;border-radius:3px;color:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+									                                                    <span align="center" class="x_float-center" style="margin:0; border:0 solid #0070D2; border-radius:3px; display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:16px; font-weight:700; line-height:1.3; margin:0; padding:15px 25px 15px 25px; padding-left:0; padding-right:0; text-align:center; width:100%">
+                                                                                        $if(isQuote)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/qc/go-to-quotes/$entity.uniqueName$/messages/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+									                                                    $endif$
+									                                                    $if(isContract)$
+									                                                        <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/pm/go-to-contracts/$entity.uniqueName$/messages/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        $if(isRebateAgreement)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/rm/go-to-rebate-agreements/$entity.uniqueName$/messages/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        $if(isCompensation)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/sc/go-to-compensation-plans/$entity.uniqueName$/messages/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        $if(isDealPlan)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/lo/deal-plans/$entity.typedId$/detail/go-to-messages/any/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        $if(isCustomForm)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/custom-forms/$entity.typeTypedId$/$entity.typedId$/go-to-messages/any/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        $if(isActionItem)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/user/actions/$entity.typedId$/detail/go-to-messages/$msgEntity.typedId$">$email_emailBody_requestInfo_buttonReply$</a>
+                                                                                        $endif$
+                                                                                        </span>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                        <td class="expander" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0!important;text-align:left;vertical-align:top;visibility:hidden;width:0;word-wrap:break-word"></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </th>
+                                                        </tr>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+                                        <tbody>
+                                            <tr style="padding:0;text-align:left;vertical-align:top">
+                                                <th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:20px;padding-right:20px;text-align:left;width:580px">
+                                                    <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                        <tr style="padding:0;text-align:left;vertical-align:top">
+                                                            <th style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+															$email_emailBody_requestInfo_line3$
+															</th>
+                                                            <th class="expander" style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0"></th>
+                                                        </tr>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+                                        <tbody>
+                                            <tr style="padding:0;text-align:left;vertical-align:top">
+                                                <th class="small-12 large-4 columns first" style="Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:20px;padding-right:10px;text-align:left;width:180px">
+                                                    <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                        <tr style="padding:0;text-align:left;vertical-align:top">
+                                                            <th style="Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+                                                                <table class="button radius large expanded" style="Margin:0 0 16px 0;border-collapse:collapse;border-radius:3px;border-spacing:0;margin:0 0 16px 0;margin-bottom:8px;padding:0;text-align:left;vertical-align:top;width:100%!important">
+                                                                    <tr style="padding:0;text-align:left;vertical-align:top">
+                                                                        <td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+                                                                            <table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+                                                                                <tr style="padding:0;text-align:left;vertical-align:top">
+                                                                                    <td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#0070D2;border:none;border-collapse:collapse!important;border-radius:3px;color:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+									                                                    <span align="center" class="x_float-center" style="margin:0; border:0 solid #0070D2; border-radius:3px; display:inline-block; font-family:Helvetica,Arial,sans-serif; font-size:16px; font-weight:700; line-height:1.3; margin:0; padding:15px 25px 15px 25px; padding-left:0; padding-right:0; text-align:center; width:100%">
+									                                                    $if(isQuote)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/qc/go-to-quotes/$entity.uniqueName$">$email_emailBody_requestInfo_buttonViewQuote$</a>
+									                                                    $endif$
+                                                                                        $if(isContract)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/pm/go-to-contracts/$entity.uniqueName$">$email_emailBody_requestInfo_buttonViewContract$</a>
+                                                                                        $endif$
+                                                                                        $if(isRebateAgreement)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/rm/go-to-rebate-agreements/$entity.uniqueName$">$email_emailBody_requestInfo_buttonViewRebateAgreement$</a>
+                                                                                        $endif$
+                                                                                        $if(isCompensation)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/sc/go-to-compensation-plans/$entity.uniqueName$">$email_emailBody_requestInfo_buttonViewCompensation$</a>
+                                                                                        $endif$
+                                                                                        $if(isDealPlan)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/lo/deal-plans/$entity.typedId$/detail">$email_emailBody_requestInfo_buttonViewDealPlan$</a>
+                                                                                        $endif$
+                                                                                        $if(isCustomForm)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/custom-forms/$entity.typeTypedId$/$entity.typedId$">$email_emailBody_requestInfo_buttonViewCustomForm$</a>
+                                                                                        $endif$
+                                                                                        $if(isActionItem)$
+                                                                                            <a style="color:#fefefe;text-decoration:none;" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1" href="$baseURL$/app/modules/#/user/actions/$entity.typedId$/detail">$email_emailBody_requestInfo_buttonViewAction$</a>
+                                                                                        $endif$
+                                                                                        </span>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                        <td class="expander" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0!important;text-align:left;vertical-align:top;visibility:hidden;width:0;word-wrap:break-word"></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </th>
+                                                        </tr>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table>
+						$footer()$
+					</table>
+                </center>
+            </td>
+        </tr>
+    </table>
+    <!-- prevent Gmail on iOS font size manipulation -->
+    <div style="display:none;white-space:nowrap;font:15px courier;line-height:0">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+</body>
+
+</html>

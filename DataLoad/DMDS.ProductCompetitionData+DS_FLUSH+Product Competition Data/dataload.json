@@ -1,0 +1,19 @@
+{
+  "calculationConfig" : {
+    "feederInputParams" : [ ],
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ]
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Product Competition Data",
+  "sourceName" : "DMF.ProductCompetitionData",
+  "targetName" : "DMDS.ProductCompetitionData",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}
