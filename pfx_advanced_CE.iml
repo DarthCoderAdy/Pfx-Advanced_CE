@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CW_ProductLabelChange_Execution+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/CW_ProductLabelChange_Wizard+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Configurator_Configurator_Logic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid_Matrix+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/QuoteProductFilter+2020-01-01/elements" isTestSource="false" />
     </content>
   </component>
