@@ -27,6 +27,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid_Matrix+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_PricelistHeader_Header+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Pricelist_Cached+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Pricelist_NoCache+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/QuoteProductFilter+2020-01-01/elements" isTestSource="false" />
     </content>
   </component>
