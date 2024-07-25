@@ -21,6 +21,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Configurator_Configurator_Logic+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DASH_Dashboard_Embedded+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DASH_Dashboard_Main+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/DashboardPricelistExport+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Dashboard_Controller+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_MatrixPriceGrid_Matrix+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/PG_PricelistHeader_Header+2020-01-01/elements" isTestSource="false" />

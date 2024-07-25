@@ -1,0 +1,20 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Pricelist",
+    "elementName" : "Pricelist",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "formatType" : "COMPLEX",
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "status" : "ACTIVE",
+  "uniqueName" : "DashboardPricelistExport",
+  "validAfter" : "2020-01-01"
+}

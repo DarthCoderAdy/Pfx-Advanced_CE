@@ -1,0 +1,11 @@
+{
+  "configuration" : {
+    "formulaName" : "Dashboard_Controller",
+    "inputs" : [ ]
+  },
+  "dynamicInputs" : false,
+  "hide" : false,
+  "label" : "DashboardController",
+  "labelTranslations" : { },
+  "uniqueName" : "DashboardController"
+}
