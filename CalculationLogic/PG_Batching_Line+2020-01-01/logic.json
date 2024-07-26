@@ -28,6 +28,19 @@
   }, {
     "allowOverride" : false,
     "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "ProductCost",
+    "elementName" : "ProductCost",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
     "displayOptions" : 16,
     "elementGroups" : [ ],
     "elementLabel" : "Base Price",
