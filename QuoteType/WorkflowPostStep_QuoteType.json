@@ -1,0 +1,5 @@
+{
+  "label" : "WorkflowPostStep_QuoteType",
+  "uniqueName" : "WorkflowPostStep_QuoteType",
+  "workflowFormulaName" : "WorkflowPostStep_Workflow_Quote_Logic"
+}
