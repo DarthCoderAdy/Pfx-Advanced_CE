@@ -11,7 +11,7 @@ import net.pricefx.server.dto.calculation.ContextParameter
  * @param cfoFormId Optional identifier for the CFO form. If {@code null}, the function will execute using the default value.
  * @return the primary configurator entry or a default value if it does not exist.
  *
- * @throws Any relevant exceptions here, if applicable
+ * @throws any relevant exceptions here, if applicable
  */
 ConfiguratorEntry getMainConfiguratorEntry(Long cfoFormId) {
     Script constantConfigLibrary = libs.sCFO_ProductDiscountLib.ConstConfig
