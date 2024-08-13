@@ -1,0 +1,11 @@
+{
+  "fieldName" : "attribute1",
+  "fieldType" : 1,
+  "formatType" : "PERCENT",
+  "label" : "TargetDiscountPct",
+  "labelTranslations" : {
+    "" : "Target Discount %"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

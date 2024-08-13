@@ -30,8 +30,13 @@
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Pricelist_Cached+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/Pricelist_NoCache+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/QuoteProductFilter+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/sCFO_ProductDiscountDataMgmt+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/WorkflowPostStep_PostStep_Logic+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/WorkflowPostStep_Workflow_Quote_Logic+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/customform+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/customform_WorkflowPostStep+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/sCFO_ProductDiscountLib/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/sCFO_ProductDiscountHeader_Configurator+2020-01-01/elements" isTestSource="false" />
     </content>
   </component>
 </module>

@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Discount Level Definition",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "DiscountLevelDefinition",
+  "validAfter" : "2010-01-01",
+  "valueType" : "MATRIX2"
+}

@@ -12,6 +12,11 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="Pricefx external repository" />
+      <option name="name" value="Pricefx external repository" />
+      <option name="url" value="https://maven-ext.pricefx.eu" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="Pricefx public maven artifacts" />
       <option name="name" value="Pricefx public maven artifacts" />
       <option name="url" value="https://nexus.pricefx.net/tools" />

@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Discount",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "Discount",
+  "validAfter" : "2010-01-01",
+  "valueType" : "MATRIX2"
+}

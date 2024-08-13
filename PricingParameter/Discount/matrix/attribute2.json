@@ -1,0 +1,11 @@
+{
+  "fieldName" : "attribute2",
+  "fieldType" : 1,
+  "formatType" : "PERCENT",
+  "label" : "maxDiscountPct",
+  "labelTranslations" : {
+    "" : "Max Discount %"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

@@ -1,0 +1,15 @@
+{
+  "elements" : [ {
+    "combinationType" : "FUNCTION",
+    "elementLabel" : "UpdateData",
+    "elementName" : "UpdateData",
+    "elementTimeout" : 0,
+    "excludeFromExport" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false
+  } ],
+  "formulaNature" : "wfStepLogic",
+  "status" : "ACTIVE",
+  "uniqueName" : "customform_WorkflowPostStep",
+  "validAfter" : "2020-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "folder" : null,
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Product Family Mapping",
+  "status" : "ACTIVE",
+  "type" : "SIMPLE",
+  "uniqueName" : "ProductFamilyMapping",
+  "validAfter" : "2020-01-01",
+  "valueType" : "STRING"
+}

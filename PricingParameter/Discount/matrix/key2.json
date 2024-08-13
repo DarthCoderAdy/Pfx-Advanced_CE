@@ -1,0 +1,11 @@
+{
+  "fieldName" : "key2",
+  "fieldType" : 1,
+  "formatType" : "INTEGER",
+  "label" : "DiscountLevel",
+  "labelTranslations" : {
+    "" : "Discount Level"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}

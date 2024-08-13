@@ -1,0 +1,11 @@
+{
+  "fieldName" : "attribute1",
+  "fieldType" : 1,
+  "formatType" : "MONEY",
+  "label" : "MinRevenue",
+  "labelTranslations" : {
+    "" : "Min Revenue"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

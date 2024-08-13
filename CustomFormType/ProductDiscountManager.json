@@ -1,0 +1,49 @@
+{
+  "configuration" : {
+    "steps" : [ {
+      "icon" : "bars",
+      "name" : "step1",
+      "tabs" : [ {
+        "icon" : "dashboard",
+        "name" : "dashboard",
+        "translationKey" : "Management options",
+        "type" : "details"
+      }, {
+        "icon" : "process",
+        "name" : "workflow",
+        "translationKey" : "Workflow",
+        "type" : "workflow"
+      }, {
+        "icon" : "file-check-alt",
+        "name" : "actions",
+        "translationKey" : "Todo list",
+        "type" : "actions"
+      } ],
+      "translationKey" : "Product Discount Data Management"
+    } ],
+    "tabs" : [ {
+      "icon" : "dashboard",
+      "name" : "dashboard",
+      "translationKey" : "Managment options",
+      "type" : "details"
+    }, {
+      "icon" : "process",
+      "name" : "workflow",
+      "translationKey" : "Workflow",
+      "type" : "workflow"
+    }, {
+      "icon" : "file-check-alt",
+      "name" : "actions",
+      "translationKey" : "Todo list",
+      "type" : "actions"
+    } ]
+  },
+  "embedded" : false,
+  "headerFormulaName" : "sCFO_ProductDiscountDataMgmt",
+  "label" : "Product Discount Manager",
+  "module" : "ANALYTICS",
+  "name" : "Default CFO config",
+  "supportedParentTypeCodes" : [ ],
+  "uniqueName" : "ProductDiscountManager",
+  "workflowFormulaName" : "customform"
+}
