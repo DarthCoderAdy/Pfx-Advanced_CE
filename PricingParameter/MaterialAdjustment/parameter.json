@@ -1,0 +1,12 @@
+{
+  "folder" : null,
+  "formatType" : "PERCENT",
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Material Adjustment",
+  "status" : "ACTIVE",
+  "type" : "SIMPLE",
+  "uniqueName" : "MaterialAdjustment",
+  "validAfter" : "2010-01-01",
+  "valueType" : "REAL"
+}

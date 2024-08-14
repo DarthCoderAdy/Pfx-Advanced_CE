@@ -1,0 +1,12 @@
+{
+  "folder" : null,
+  "formatType" : "PERCENT",
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Door Size Adjustment",
+  "status" : "ACTIVE",
+  "type" : "SIMPLE",
+  "uniqueName" : "DoorSizeAdjustment",
+  "validAfter" : "2010-01-01",
+  "valueType" : "REAL"
+}

@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/WorkflowFormula/customform_WorkflowPostStep+2020-01-01/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/sCFO_ProductDiscountLib/elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/sCFO_ProductDiscountHeader_Configurator+2020-01-01/elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CalculationLogic/eCFO_ProductConfigurator+2020-01-01/elements" isTestSource="false" />
     </content>
   </component>
 </module>
