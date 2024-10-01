@@ -1,7 +1,7 @@
 {
   "envs" : {
     "DEV" : {
-      "sce-0272" : "https://training.pricefx.eu"
+      "ce-1061" : "https://training.pricefx.eu/"
     },
     "PROD" : { },
     "QA" : { }
